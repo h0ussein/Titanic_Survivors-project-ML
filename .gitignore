@@ -1,0 +1,30 @@
+# Python
+# Compiled source
+__pycache__/
+*.pyc
+# PEP 582; used by e.g. pyflow and pdm
+__pypackages__/
+# Distributions and packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# Editors and IDEs
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+# Spyder
+.spyderproject
+.spyproject
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# mypy cache
+.mypy_cache/
